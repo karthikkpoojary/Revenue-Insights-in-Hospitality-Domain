@@ -165,9 +165,8 @@ This project is licensed under the MIT License — see the LICENSE file for deta
 
 
 ## 👤 Author
-**K Keerthi**  
+**Karthik K**  
 Data Science Engineering Student <br>
-Aspiring Python Developer / Data Analyst
  
 
 ⭐ If you find this project helpful, feel free to star the repository!
@@ -175,9 +174,10 @@ Aspiring Python Developer / Data Analyst
 ---
 
 <p align="center">
-  🛠 Built by <a href="https://github.com/KEERTHI2355">@Keerthi2355</a> 
+  🛠 Built by <a href="https://github.com/karthikkpoojary">@Karthik</a> 
   <br>
   <a href="#-the-vault">Back to Top</a>
 </p>
+
 
 
